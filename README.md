@@ -13,7 +13,7 @@ look into list of changed files
 #git commit -m "Message"
 commiting msg to changed file
 
-#git checkout <main>
+#git checkout main
 switch to branch
 
 #git checkout -b name
